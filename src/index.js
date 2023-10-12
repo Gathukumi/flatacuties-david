@@ -1,4 +1,3 @@
-// Your code here
 const characterBar = document.getElementById('character-bar');
 const characterName = document.getElementById('name');
 const characterImg = document.getElementById('image');
